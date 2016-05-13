@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is another post.
-datePublished: '2016-05-13T22:11:37.859Z'
-dateModified: '2016-05-13T22:11:33.396Z'
+datePublished: '2016-05-13T22:15:08.688Z'
+dateModified: '2016-05-13T22:15:04.165Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-this-is-another-post.md
