@@ -1,0 +1,28 @@
+name: Susan
+favicon: null
+layout_spectrum: 0.3134893395472318
+typography_spectrum: 0.007681735558435321
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4695790575351566
+  lightness: 0.4208703190088272
+  saturation: 0.3777877304237336
+  rhythmicContrast: 0.4368962065782398
+purpose: []
